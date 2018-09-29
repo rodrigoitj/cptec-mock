@@ -1,8 +1,8 @@
 {
   "cidades": [
-    { "id": 12533, "nome": "Itajá", "uf":"RN" },
-    { "id": 2534, "nome": "Itajá", "uf":"GO" },
-    { "id": 2535, "nome": "Itajaí", "uf":"SC" },
+    { "id": 12533, "nome": "Itaja", "uf":"RN" },
+    { "id": 2534, "nome": "Itaja", "uf":"GO" },
+    { "id": 2535, "nome": "Itajai", "uf":"SC" },
     { "id": 2536, "nome": "Itajobi", "uf":"SP" }
   ]
 }
