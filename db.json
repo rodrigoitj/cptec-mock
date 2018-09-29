@@ -12,45 +12,45 @@
       "previsao":[{
         "dia" : "2018-10-02",
         "tempo" : "pt",
-        "maxima" : "27",
-        "minima" : "23",
-        "iuv" : "9.0"
+        "maxima" : 27,
+        "minima" : 23,
+        "iuv" : 9.0
       },{
         "dia" : "2018-10-03",
         "tempo" : "pt",
-        "maxima" : "27",
-        "minima" : "23",
-        "iuv" : "9.0"
+        "maxima" : 27,
+        "minima" : 23,
+        "iuv" : 9.0
       },{
         "dia" : "2018-10-04",
         "tempo" : "pt",
-        "maxima" : "27",
-        "minima" : "23",
-        "iuv" : "9.0
+        "maxima" : 27,
+        "minima" : 23,
+        "iuv" : 9.0
       },{
         "dia" : "2018-10-05",
         "tempo" : "pt",
-        "maxima" : "27",
-        "minima" : "23",
-        "iuv" : "9.0"
+        "maxima" : 27,
+        "minima" : 23,
+        "iuv" : 9.0
       },{
         "dia" : "2018-10-06",
         "tempo" : "pt",
-        "maxima" : "27",
-        "minima" : "23",
-        "iuv" : "9.0"
+        "maxima" : 27,
+        "minima" : 23,
+        "iuv" : 9.0
       },{
         "dia" : "2018-10-07",
         "tempo" : "pt",
-        "maxima" : "27",
-        "minima" : "23",
-        "iuv" : "9.0"
+        "maxima" : 27,
+        "minima" : 23,
+        "iuv" : 9.0
       },{
         "dia" : "2018-10-08",
         "tempo" : "pt",
-        "maxima" : "27",
-        "minima" : "23",
-        "iuv" : "9.0"
+        "maxima" : 27,
+        "minima" : 23,
+        "iuv" : 9.0
       }]
     }
 }
