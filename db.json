@@ -1,0 +1,56 @@
+{
+  "cidades": [
+    { "id": 12533, "nome": "Itajá", "uf":"RN" },
+    { "id": 2534, "nome": "Itajá", "uf":"GO" },
+    { "id": 2535, "nome": "Itajaí", "uf":"SC" },
+    { "id": 2536, "nome": "Itajobi", "uf":"SP" }
+  ],
+  "previsoes": { 
+      "nome": "Itajaí",
+      "uf" : "SC",
+      "atualizacao":"2018-09-28",
+      "previsao":[{
+        "dia" : "2018-10-02",
+        "tempo" : "pt",
+        "maxima" : "27",
+        "minima" : "23",
+        "iuv" : "9.0"
+      },{
+        "dia" : "2018-10-03",
+        "tempo" : "pt",
+        "maxima" : "27",
+        "minima" : "23",
+        "iuv" : "9.0"
+      },{
+        "dia" : "2018-10-04",
+        "tempo" : "pt",
+        "maxima" : "27",
+        "minima" : "23",
+        "iuv" : "9.0
+      },{
+        "dia" : "2018-10-05",
+        "tempo" : "pt",
+        "maxima" : "27",
+        "minima" : "23",
+        "iuv" : "9.0"
+      },{
+        "dia" : "2018-10-06",
+        "tempo" : "pt",
+        "maxima" : "27",
+        "minima" : "23",
+        "iuv" : "9.0"
+      },{
+        "dia" : "2018-10-07",
+        "tempo" : "pt",
+        "maxima" : "27",
+        "minima" : "23",
+        "iuv" : "9.0"
+      },{
+        "dia" : "2018-10-08",
+        "tempo" : "pt",
+        "maxima" : "27",
+        "minima" : "23",
+        "iuv" : "9.0"
+      }]
+    }
+}
